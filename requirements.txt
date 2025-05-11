@@ -3,3 +3,5 @@ psycopg2-binary
 pandas
 numpy
 streamlit-autorefresh
+requests
+beautifulsoup4
